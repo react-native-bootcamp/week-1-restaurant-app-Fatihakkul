@@ -1,6 +1,3 @@
-/**
- * @format
- */
 
 import {AppRegistry} from 'react-native';
 import {List} from './src/index'
